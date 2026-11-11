@@ -21,6 +21,10 @@ ABot과 Arduino로 라인트래킹 주행, 장애물 감지 시 긴급 정지, �
 | Communication | HC-06 블루투스 모듈 (SoftwareSerial) |
 | Tool | Arduino IDE, 스마트폰 블루투스 컨트롤러 앱 |
 
+## 시연 영상
+
+[![IoT 스마트카 시스템 시연 영상](https://img.youtube.com/vi/pK_a5WIcLFA/hqdefault.jpg)](https://youtu.be/pK_a5WIcLFA)
+
 ## 하드웨어 구성
 
 <img src="./images/smart-car.jpg" width="360" alt="스마트카 완성 사진">
@@ -105,4 +109,3 @@ ABot과 Arduino로 라인트래킹 주행, 장애물 감지 시 긴급 정지, �
 - 소스 코드: [Smart_Car.ino](./src/Smart_Car.ino)
 - 개발 보고서: [IoT 스마트카 시스템 개발보고서 (PDF)](./reports/pdf/IoT%20스마트카%20시스템_개발보고서.pdf)
 - 주간 진행 보고서: [reports/pdf](./reports/pdf)
-- 시연 영상: [IoT 스마트카 시스템 시연 영상](./videos/IoT스마트카시스템_시연동영상.mp4)
